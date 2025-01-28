@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Passionate last-year Computer Science enthusiast, eager to conquer new challenges and contribute to innovative projects. Armed with a solid foundation in Data Structures and Algorithms (DSA) and well-versed in the art of software engineering. Committed to continuous learning and staying at the forefront of emerging technologies. A collaborative team player with a knack for effective communication.<br>📚 Currently delving into the realm of node.js. 🚀</p>
+<p align="left">Passionate Computer Science enthusiast, eager to conquer new challenges and contribute to innovative projects. Armed with a solid foundation in Data Structures and Algorithms (DSA) and well-versed in the art of software engineering. Committed to continuous learning and staying at the forefront of emerging technologies. A collaborative team player with a knack for effective communication.<br>📚 Currently delving into the realm of node.js. 🚀</p>
 
 ###
 
